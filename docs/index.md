@@ -1,46 +1,9 @@
-# Welcome to use MkDocs Template
+# 简介
 
-GitHub: [mmdjiji/mkdocs-template](https://github.com/mmdjiji/mkdocs-template)
+![Sun Wu](assets/favicon.png)
 
-A template of mkdocs by [JiJi](https://mmdjiji.com), for full documentation visit [mkdocs.org](https://www.mkdocs.org).
+《孙子兵法》被誉为“兵学圣典”和“古代第一兵书”，是我国最古老、最杰出的一部兵书，历来备受推崇，研习者辈出。其内容博大精深，思想精邃富赡，逻辑缜密严谨，是古代军事思想精华的集中体现。作者为春秋时祖籍齐国乐安的吴国将军孙武。孙武，字长卿，春秋末期齐国人，从齐国流亡到吴国，辅助吴王经国治军，显名诸侯，被尊为“兵圣”。《孙子兵法》被誉为“兵学圣典”和“古代第一兵书”。它在我国古代军事学术和战争实践中，都起过极其重要的指导作用。
 
-## Continuous Deployment
-This repository uses GitHub Actions for continuous deployment. You don't need to build your documents manually. Just commit your documents (then run `git push`), and then turn on the GitHub Pages in the settings to access your online documents. (For this demo is [https://mmdjiji.github.io/mkdocs-template](https://mmdjiji.github.io/mkdocs-template))
+《孙子兵法》是现存最早的兵书，历来备受推崇，研习者辈出。凡十三篇，每篇皆以“孙子曰”开头，按专题论说，有中心，有层次，逻辑严谨，语言简练，文风质朴，善用排比铺陈叙说，比喻生动具体，如写军队的行动：“其疾如风，其徐如林，侵掠如火，不动如山，难知如阴，动如雷震”（《军争篇》），既贴切又形象，且音韵铿锵，气势不凡，故刘勰称“孙武兵经，辞如珠玉”（《文心雕龙·程器》）。向来以作战的缜密思维为文章谋篇布局，对孙武而言如烹小鲜矣。
 
-## Commands
-
-* `pip install -r requirements.txt` - Install requirements before use
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-```bash
-mkdocs.yml     # The configuration file.
-.github/
-    workflows/ # For the GitHub Actions
-docs/
-    index.md   # The documentation homepage.
-    ...        # Other markdown pages, images and other files.
-```
-
-## Themes
-You can use the following code (add them to `mkdocs.yml`) to change your theme (default: `mkdocs`):
-```yaml
-theme:
-  name: mkdocs
-```
-
-There are many choices for you:
-
-|theme's name|
-|-|
-|mkdocs|
-|readthedocs|
-|material|
-
-Of course, I would like to use `material` theme because of its simple and elegant.
-
-## License
-Follow [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs), use [BSD-2-Clause](LICENSE).
+“兵者，国之大事，死生之地，存亡之道，不可不察也。”《孙子兵法》继承和发展了前人的军事理论 ，把政治作为决定战争胜败的首要因素，归纳出战争的原理原则，举凡战前之准备，策略之运用，作战之布署，敌情之研判等，无不详加说明，巨细靡遗，周严完备，具有朴素的唯物辩证思想，二千多年来一直被视为兵家之经典，至今仍具有重大的现实意义。毛泽东对《孙子兵法》推崇备至，而孙子所主张的智、信、仁、勇、严则成为中国军人的“武德”。
