@@ -1,6 +1,6 @@
 # 孙子兵法
 
-[**在线阅读**](https://jiji.pro/szbf)
+[**在线阅读**](https://std.ac/szbf/)
 
 ![Sun Wu](docs/assets/favicon.png)
 
